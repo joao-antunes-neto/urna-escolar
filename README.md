@@ -1,4 +1,4 @@
-# urna-escolar 1.3.15
+# urna-escolar 1.3.18
 
 ATENÇÃO!     
 Na tela de login clique sobre o link(Antes de começar LEIA-ME) para visualizar o Manual e mais informações.
